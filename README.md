@@ -1,5 +1,10 @@
 <h1 align="center"><b>MoleRec</b></h1>
-
+<p align="center">
+    <a href="https://github.com/yangnianzu0515/MoleRec/pulls"><img src="https://img.shields.io/badge/PRs-Welcome-yellow" alt="PRs"></a>
+    <a href="https://github.com/yangnianzu0515/MoleRec/blob/master/LICENSE"><img alt="License" src="https://img.shields.io/github/license/yangnianzu0515/MoleRec?color=green"></a>
+    <a href="https://github.com/yangnianzu0515/MoleRec/stargazers"><img src="https://img.shields.io/github/stars/yangnianzu0515/MoleRec?color=red&label=Star" alt="Stars"></a>
+    <!-- <a href="https://yangnianzu0515.github.io/"><img src="https://img.shields.io/badge/Nianzu-Yang-blue" alt="MyWebsite"></a> -->
+</p>
 Official implementation for our paper:
 
 *MoleRec: Combinatorial Drug Recommendation with Substructure-Aware Molecular Representation Learning*
