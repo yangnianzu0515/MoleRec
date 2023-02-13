@@ -5,6 +5,7 @@
     <a href="https://github.com/yangnianzu0515/MoleRec/stargazers"><img src="https://img.shields.io/github/stars/yangnianzu0515/MoleRec?color=red&label=Star" alt="Stars"></a>
     <!-- <a href="https://yangnianzu0515.github.io/"><img src="https://img.shields.io/badge/Nianzu-Yang-blue" alt="MyWebsite"></a> -->
 </p>
+
 Official implementation for our paper:
 
 *MoleRec: Combinatorial Drug Recommendation with Substructure-Aware Molecular Representation Learning*
