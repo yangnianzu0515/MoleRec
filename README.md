@@ -118,4 +118,4 @@ If you find our work useful in your research, please consider citing:
 Welcome to contact us [yangnianzu@sjtu.edu.cn](mailto:yangnianzu@sjtu.edu.cn) or [zengkaipeng@sjtu.edu.cn](mailto:zengkaipeng@sjtu.edu.cn) for any question.
 
 ## Acknowledgement
-We sincerely thank this repository [SafeDrug](https://github.com/ycq091044/SafeDrug) for its well-implemented pipeline upon which we build our codebase.
+We sincerely thank these repositories [GAMENet](https://github.com/sjy1203/GAMENet) and [SafeDrug](https://github.com/ycq091044/SafeDrug) for their well-implemented pipeline upon which we build our codebase.
