@@ -20,7 +20,7 @@ Nianzu Yang, Kaipeng Zeng, Qitian Wu, Junchi Yan* (* denotes correspondence)
   - `drug-atc.csv`, `ndc2atc_level4.csv`, `ndc2rxnorm_mapping.txt`: mapping files for drug code transformation
   - `atc2rxnorm.pkl`: It maps ATC-4 code to rxnorm code and then query to drugbank.
   - `idx2SMILES.pkl`: Drug ID (we use ATC-4 level code to represent drug ID) to drug SMILES string dictionary.
-  - `drug-DDI.csv`: A file containing the drug DDI information which is coded by CID.
+  - `drug-DDI.csv`: A file containing the drug DDI information which is coded by CID. This file is large and you can download it from [https://drive.google.com/file/d/1s3sHmz9ueVA8YAGTARY8jwrhRdRvVaXs/view?usp=sharing](https://drive.google.com/file/d/1s3sHmz9ueVA8YAGTARY8jwrhRdRvVaXs/view?usp=sharing).
   - `ddi_mask_H.pkl`:  A mask matrix containing the relations between molecule and substructures. If drug molecule $i$ contains substructure $j$, the $j$-th column of $i$-the row of the matrix is set to 1.
   - `substructure_smiles.pkl`: A list containing the smiles of all the substructures.
   - `ddi_mask_H.py`: The python script responsible for generating `ddi_mask_H.pkl` and `substructure_smiles.pkl`.
