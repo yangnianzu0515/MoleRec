@@ -1,5 +1,6 @@
 <h1 align="center"><b>MoleRec</b></h1>
 <p align="center">
+    <a href="https://dl.acm.org/doi/10.1145/3543507.3583872"> <img alt="Publication" src="https://img.shields.io/static/v1?label=Pub&message=TheWebConf%2723&color=purple"></a>
     <a href="https://github.com/yangnianzu0515/MoleRec/pulls"><img src="https://img.shields.io/badge/PRs-Welcome-yellow" alt="PRs"></a>
     <a href="https://github.com/yangnianzu0515/MoleRec/blob/master/LICENSE"><img alt="License" src="https://img.shields.io/github/license/yangnianzu0515/MoleRec?color=green"></a>
     <a href="https://github.com/yangnianzu0515/MoleRec/stargazers"><img src="https://img.shields.io/github/stars/yangnianzu0515/MoleRec?color=red&label=Star" alt="Stars"></a>
@@ -13,6 +14,10 @@ Official implementation for our paper:
 Nianzu Yang, Kaipeng Zeng, Qitian Wu, Junchi Yan* (* denotes correspondence)
 
 *Proceedings of the ACM Web Conference 2023* (**TheWebConf (a.k.a. WWW) 2023**)
+
+## News 🎉
+
+**MoleRec** has been incorporated into the [**PyHealth**](https://github.com/sunlabuiuc/PyHealth) package as a benchmark method for the combinatorial drug recommendation task! 👏
 
 ## Folder Specification
 
