@@ -114,10 +114,11 @@ python main.py --Test --resume_path ../best_models/GNN/MoleRec.model
 If you find our work useful in your research, please consider citing:
 ```bibtex
 @inproceedings{yang2023molerec,
-      title = {MoleRec: Combinatorial Drug Recommendation with Substructure-Aware Molecular Representation Learning},
-      author = {Nianzu Yang and Kaipeng Zeng and Qitian Wu and Junchi Yan},
-      booktitle = {Proceedings of the ACM Web Conference 2023},
-      year = {2023}
+  title={MoleRec: Combinatorial Drug Recommendation with Substructure-Aware Molecular Representation Learning},
+  author={Yang, Nianzu and Zeng, Kaipeng and Wu, Qitian and Yan, Junchi},
+  booktitle={Proceedings of the ACM Web Conference 2023},
+  pages={4075--4085},
+  year={2023}
 }
 ```
 Welcome to contact us [yangnianzu@sjtu.edu.cn](mailto:yangnianzu@sjtu.edu.cn) or [zengkaipeng@sjtu.edu.cn](mailto:zengkaipeng@sjtu.edu.cn) for any question.
